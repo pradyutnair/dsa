@@ -1,0 +1,10 @@
+Shanghai	22,315,474
+Beijing	11,716,620
+Tianjin	11,090,314
+Guangzhou	11,071,424
+Shenzhen	10,358,381
+Wuhan	9,785,388
+Dongguan	8,000,000
+Chongqing	7,457,600
+Chengdu	7,415,590
+Nanjing	7,165,292

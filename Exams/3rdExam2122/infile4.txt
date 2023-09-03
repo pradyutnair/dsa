@@ -1,0 +1,3 @@
+/* Nothing but comment 
+Nothing but comment *//*
+Nothing but comment */

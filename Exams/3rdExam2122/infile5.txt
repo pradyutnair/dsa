@@ -1,0 +1,3 @@
+This first bit must remain because the comment is not opened*//* comment 
+comment *//*
+comment *//* This last bit should remain as the comment is not closed

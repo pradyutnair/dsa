@@ -1,0 +1,10 @@
+Berlin	3,426,354
+Hamburg	1,739,117
+Munich	1,260,391
+Koeln	963,395
+Frankfurt Am Main	650,000
+Essen	593,085
+Stuttgart	589,793
+Dortmund	588,462
+Duesseldorf	573,057
+Bremen	546,501

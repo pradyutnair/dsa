@@ -1,0 +1,3 @@
+XX/* comment */XX/* Another
+comment */XX
+XXX/**/XXX

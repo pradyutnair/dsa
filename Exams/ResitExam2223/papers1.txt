@@ -1,0 +1,5 @@
+My First Paper,Anton,Bas,Corry,5
+My Second Paper,Corry,Anton,4
+This I wrote by myself,Anton,11
+Nobody cares about this,David,Bas,Anton,0
+I have no co-authors,Eddington,77

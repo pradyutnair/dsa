@@ -1,0 +1,13 @@
+XXXXXXXXXX
+XXX/*Once all the comments*/XXXXXXX
+XXX/*are removed, this text*/XXXXXXX
+XXX/*should become a 10x10*/XXXXXXX
+XXX/*block of Xs*/XXXXXXX
+XXX/*Even this 
+     multiline comment
+	 should be removed
+	 without issues*/XXXXXXX
+XXXX/**/XXXXXX
+XXX/*/**/XXXXXXX/*EOL comment*/
+/*Start of line*/XX/*/* /**/XXXXXXXX
+XXXXXXXXXX

@@ -1,0 +1,10 @@
+Amsterdam	741,636
+Rotterdam	598,199
+The Hague	474,292
+Utrecht	290,529
+Eindhoven	209,620
+Tilburg	199,613
+Groningen	181,194
+Almere	176,432
+Breda	167,673
+Nijmegen	158,732
